@@ -3,11 +3,8 @@
 #include <sys/types.h>
 
 int main(){
-
 fork();
-
-printf("Hello Worldd! \n");
-
+printf("Hello worldd! \n");
 return 0;
-
 }
+
